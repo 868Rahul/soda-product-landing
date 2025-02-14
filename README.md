@@ -31,3 +31,11 @@ CSS Transitions for hover effects
 🔗 GitHub | 🔗 LinkedIn
 
 📸 Screenshots
+## 📸 Screenshots
+
+### 🖼 Screenshot 1  
+![Screenshot](https://raw.githubusercontent.com/868Rahul/soda-product-landing/main/assets/screenshorts/Screenshot%202025-02-14%20190959.png)
+
+### 🖼 Screenshot 2  
+![Screenshot](https://raw.githubusercontent.com/868Rahul/soda-product-landing/main/assets/screenshorts/Screenshot%202025-02-14%20191100.png)
+
